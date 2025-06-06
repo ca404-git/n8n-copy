@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Minor change to trigger Git tracking of executable flag
 
 const path = require('path');
 
